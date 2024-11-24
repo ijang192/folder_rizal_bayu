@@ -15,3 +15,4 @@ Sub Header
 _Italic / Miring_
 **Bold / Tebal**
 `Monospace`
+As [John Gruber] writes on the [Markdown site][df1]
