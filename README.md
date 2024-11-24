@@ -12,5 +12,6 @@ Sub Header
 ### Header 3
 #### Header 4
 
-Paragraf  
-pargrafffff
+_Italic / Miring_
+**Bold / Tebal**
+`Monospace`
